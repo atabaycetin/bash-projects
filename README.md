@@ -1,5 +1,7 @@
 # Bash Projects
 
+Name Updater and Process Killer scripts are only for Linux operating system.
+
 This repository contains only the Bash script codes. Here are the gist links of every project containing the PostgreSQL files:
 
 [World Cup Project](https://gist.github.com/atabaycetin/827aa3a6bf37e4d14d00a0ef77ee2c6c)  
